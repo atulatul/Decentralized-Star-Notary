@@ -1,7 +1,9 @@
 # Decentralized Star Notary
 
 This project,will create a DApp by adding functionality to smart contract and deploy it on the public testnet. This dApp provides facility for starNotary which can be used to claim stars and sell the same. This uses NFT ERC721 EIP token.  
-This project uses **OpenZeppelin**(https://github.com/OpenZeppelin/openzeppelin-solidity) open source solidity library which help us to achieve our ERC721 Notary contract ready without much worry of implementing functionality which are related to ERC721,so that we can focus on our project logic and use case API.  
+This project uses **OpenZeppelin**(https://github.com/OpenZeppelin/openzeppelin-solidity) open source solidity library which help us to achieve our ERC721 Notary contract ready without much worry of implementing functionality which are related to ERC721,so that we can focus on our project logic and use case API.
+
+This project uses truffle framework to create, migrate and utilize unit test framework for the smart contract.
 
 ## Getting Started
 
@@ -13,7 +15,7 @@ Installing Node and NPM is pretty straightforward using the installer package av
 
 ### Configuring project
 
-- Copy attached files from finaProj.zip under current dir(you may create new dir and copy there server.js and change dir to the new dir before running below mentioned commands  
+- Copy attached files from under current dir(you may create new dir and change dir to the new dir before running below mentioned commands  
 ...
 
 - Use NPM to download package.json based project dependencies.  
