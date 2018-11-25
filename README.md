@@ -25,7 +25,7 @@ npm update ; (this will update all required node modules dependecies for the pro
 ```
 
 ## Testing
-
+  
 To test code:  
 1: Install Metamask plugin for chrome and get Rinkeby test network ether for the metamask account.  
 2: Open the attached index.html file in chrome browser ( where metamask is installed and have got Rinkeby account with valid ether for test network )and put all values in string and toeknID int and call the createStar button   
